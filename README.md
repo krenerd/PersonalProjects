@@ -1,5 +1,8 @@
 # PersonalProjects
 List of my personal projects on implementing papers on deep-learning. 
+Explanation of code is provided in my Medium blog. 
+
+Best viewed and executed in Google COLAB. 
 
 ## Multi-stage object detction with PyTorch [[notebook]](https://github.com/krenerd/PersonalProjects/blob/main/MultistageObjectDetection(PyTorch).ipynb)
 Provides implementations of the following papers on two-stage object detection. 
